@@ -151,4 +151,4 @@ wfLoadExtension( 'WikiEditor' );
 # End of automatically generated settings.
 # Add more configuration options below.
 require_once "$IP/extensions/Skinny/Skinny.php";
-wfLoadSkin( 'Scaffold' );
+require_once "$IP/skins/booty/Booty.php";
